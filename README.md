@@ -1,4 +1,4 @@
-https://github.com/neeldesaind/neeldesaind/blob/main/Banne.jpg
+
 
 <h1 align="center">Hi 👋, I'm NEEL DESAI</h1>
 <h3 align="center">MCA Student | Dedicated to Mobile Application Development</h3>
