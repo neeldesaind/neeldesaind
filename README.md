@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm NEEL DESAI</h1>
 <h3 align="center">MCA Student | Dedicated to Mobile Application Development</h3>
 <img align = "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
-
 - 🔭 I’m currently working on **Eduverse - E learning Portal**
-
 - 🌱 I’m currently learning **Flutter**
-
 - 💬 Ask me about **Android, Kotlin**
-
 - 📫 How to reach me **neel.desai1653@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
