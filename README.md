@@ -1,3 +1,5 @@
+https://github.com/neeldesaind/neeldesaind/blob/main/Banne.jpg
+
 <h1 align="center">Hi 👋, I'm NEEL DESAI</h1>
 <h3 align="center">MCA Student | Dedicated to Mobile Application Development</h3>
 <img align = "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
