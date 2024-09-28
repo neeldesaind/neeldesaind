@@ -89,3 +89,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=neeldesaind&show_icons=true&theme=radical&count_private=true" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeldesaind&layout=compact&theme=radical" alt="most used languages" />
 </p>
+
+## ❓ FAQ
+- **What technologies do you prefer?**
+  I mainly work with Android, Flutter, and Java.
+
+- **How can I contribute to your projects?**
+  You can start by checking my GitHub repositories and making pull requests.
+
+## 🤝 Collaboration
+I’m open to collaborating on interesting projects. Feel free to reach out!
