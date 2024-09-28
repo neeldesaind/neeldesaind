@@ -11,12 +11,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/neeldesaind" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeldesaind" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeldesaind" height="50" width="50" />
   </a>
-  <a href="https://wa.me/+918160026509" target="blank"> <!-- Replace your_number with your actual phone number -->
-    <img align="center" src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" alt="whatsapp" height="50" width="50" />
+  <a href="https://wa.me/+918160026509" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="whatsapp" height="50" width="50" />
+  </a>
+  <a href="mailto:neel.desai1653@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="gmail" height="50" width="50" />
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
