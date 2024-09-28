@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm NEEL DESAI</h1>
 <h3 id="typewriter" align="center">MCA Student | Dedicated to Mobile Application Development</h3>
-![Profile Views](https://shields.io/badge/views-1000-blue)
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
