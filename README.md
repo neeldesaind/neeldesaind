@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/neeldesaind/neeldesaind/blob/main/banne.jpg" alt="logo" width="100" height="100" style="border-radius: 50%; display: block; margin: 0 auto;"/>
+  <img src="https://github.com/neeldesaind/neeldesaind/blob/main/NEEL.jpeg" alt="logo" width="100" height="100" style="border-radius: 50%; display: block; margin: 0 auto;"/>
 </h1>
 <h1 align="center">Hi 👋, I'm NEEL DESAI</h1>
 <h3 id="typewriter" align="center">MCA Student | Dedicated to Mobile Application Development</h3>
