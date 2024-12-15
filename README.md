@@ -3,9 +3,8 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
-- 🔭 I’m currently working on **Eduverse - E learning Portal**
-- 🌱 I’m currently learning **Flutter**
-- 💬 Ask me about **Android, Kotlin**
+- 🌱 I’m currently learning **MERN Stack!**
+- 💬 Ask me about **Android, Kotlin, Flutter**
 - 📫 How to reach me **neel.desai1653@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
