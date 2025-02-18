@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack!**
 - 💬 Ask me about **Android, Kotlin, Flutter**
-- 📫 How to reach me **neel.desai1653@gmail.com**
+- 📫 How to reach me **neeldesainhd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
