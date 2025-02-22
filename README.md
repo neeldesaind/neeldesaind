@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NEEL DESAI</h1>
-<h3 id="typewriter" align="center">MCA Student | Dedicated to Mobile Application Development</h3>
+<h3 id="typewriter" align="center"> Dedicated to Mobile Application Development, Data Science</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
@@ -15,7 +15,7 @@
   <a href="https://wa.me/+918160026509" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="whatsapp" height="50" width="50" />
   </a>
-  <a href="mailto:neel.desai1653@gmail.com" target="blank">
+  <a href="mailto:neeldesainhd@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="gmail" height="50" width="50" />
   </a>
 </p>
