@@ -54,13 +54,7 @@
     <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br/>Postman</td>
     <td align="center"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40"/><br/>Selenium</td>
   </tr>
-  <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
+ 
 </table>
 
 ---
