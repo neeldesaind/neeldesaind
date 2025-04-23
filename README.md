@@ -16,8 +16,8 @@
 ### 🌐 Connect with me
 
 <p>
-  <a href="https://linkedin.com/in/neeldesaind" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/>
+    <a href="https://linkedin.com/in/neeldesaind" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://wa.me/+918160026509" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-075E54?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp"/>
