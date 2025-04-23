@@ -17,7 +17,7 @@
 
 <p>
      <a href="https://linkedin.com/in/neeldesaind" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" width="30" style="background-color: #0077B5; padding: 5px; border-radius: 5px;"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" width="30" style="background-color: #0077B5; padding: 5px; border-radius: 5px;"/>
   </a>
   <a href="https://wa.me/+918160026509" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-075E54?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp"/>
