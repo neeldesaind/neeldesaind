@@ -5,13 +5,7 @@
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" alt="Coding gif"/>
 </p>
 
----
 
-- 🌱 Currently learning **MERN Stack**
-- 💬 Ask me about **Android, Kotlin, Flutter**
-- 📫 Reach me at **neel.desai1605@gmail.com**
-
----
 
 ### 🌐 Connect with me
 
@@ -25,7 +19,6 @@
 </p>
 
 
----
 ### 🛠️ Languages and Tools
 
 <table>
@@ -53,8 +46,6 @@
   </tr>
  
 </table>
-
----
 
 
 ### 🤝 Let's Collaborate!
