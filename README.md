@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning **MERN Stack**
 - 💬 Ask me about **Android, Kotlin, Flutter**
-- 📫 Reach me at **neeldesainhd@gmail.com**
+- 📫 Reach me at **neel.desai1605@gmail.com**
 
 ---
 
@@ -19,11 +19,8 @@
      <a href="https://linkedin.com/in/neeldesaind" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" width="30" style="background-color: #0077B5; padding: 5px; border-radius: 5px;"/>
   </a>
-  <a href="https://wa.me/+918160026509" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-075E54?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp"/>
-  </a>
-  <a href="mailto:neeldesainhd@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-db072a?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
+  <a href="mailto:neel.desai1605@gmail.com">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg?raw=true" alt="Gmail" width="40" style="background-color: #D14836; padding: 5px; border-radius: 5px;"/>
   </a>
 </p>
 
