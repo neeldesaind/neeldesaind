@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-075E54?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp"/>
   </a>
   <a href="mailto:neeldesainhd@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0072C6?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-db072a?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
   </a>
 </p>
 
