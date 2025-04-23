@@ -31,71 +31,56 @@
 
 ### 🛠️ Languages and Tools
 
-<p><strong>Scroll to explore my tech stack</strong> 👇</p>
+<p><strong>Scroll sideways to explore 👇</strong></p>
 
-<div style="display: flex; overflow-x: auto; padding: 10px; white-space: nowrap;">
+<div style="display: flex; overflow-x: auto; gap: 20px; padding: 10px;">
 
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+  <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/><br/>Android
   </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+  <div align="center">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/><br/>Flutter
   </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+  <div align="center">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/><br/>Dart
   </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+  <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br/>Java
   </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+  <div align="center">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/><br/>Kotlin
   </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+  <div align="center">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/><br/>Firebase
   </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+  <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/><br/>HTML
   </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+  <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/><br/>CSS
   </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+  <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40"/><br/>Bootstrap
   </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+  <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><br/>MySQL
   </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+  <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/><br/>MongoDB
   </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+  <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br/>C
   </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+  <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/><br/>C#
   </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+  <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"/><br/>Swift
   </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+  <div align="center">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br/>Postman
   </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+  <div align="center">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40"/><br/>Selenium
   </div>
 
