@@ -17,7 +17,7 @@
 
 <p>
   <a href="https://linkedin.com/in/neeldesaind" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="https://wa.me/+918160026509" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge" alt="WhatsApp"/>
