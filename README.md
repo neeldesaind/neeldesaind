@@ -31,23 +31,75 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="30" alt="Android"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="30" alt="Flutter"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="30" alt="Dart"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" alt="Java"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="30" alt="Kotlin"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" alt="Firebase"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" alt="CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="30" alt="Bootstrap"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30" alt="C#"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" alt="Postman"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="30" alt="Selenium"/>
-</p>
+<p><strong>Scroll to explore my tech stack</strong> 👇</p>
+
+<div style="display: flex; overflow-x: auto; padding: 10px; white-space: nowrap;">
+
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/><br/>Android
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/><br/>Flutter
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/><br/>Dart
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br/>Java
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/><br/>Kotlin
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/><br/>Firebase
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/><br/>HTML
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/><br/>CSS
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40"/><br/>Bootstrap
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><br/>MySQL
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/><br/>MongoDB
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br/>C
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/><br/>C#
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"/><br/>Swift
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br/>Postman
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40"/><br/>Selenium
+  </div>
+
+</div>
 
 ---
 
