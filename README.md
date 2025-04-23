@@ -45,19 +45,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" alt="C"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30" alt="C#"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="30" alt="Swift"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" alt="Postman"/>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="30" alt="Selenium"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neeldesaind&show_icons=true&theme=default&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeldesaind&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeldesaind&layout=compact&theme=default" width="48%" />
 </p>
 
 ---
