@@ -15,7 +15,7 @@
 
 ### 🌐 Connect with me
 
-<p margin-left: 20px;>
+<p margin-left: 100px;>
   <a href="https://linkedin.com/in/neeldesaind" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" width="30" style="background-color: #0077B5; padding: 5px; border-radius: 5px;"/>
   </a>
