@@ -33,3 +33,15 @@
 ### 🤝 Let's Collaborate!
 
 I'm open to collaborating on exciting projects. Let's build something awesome together 🚀
+
+
+### 🌐 Connect with me
+
+<p margin-left: 100px;>
+  <a href="https://linkedin.com/in/neeldesaind" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" width="30" style="background-color: #0077B5; padding: 5px; border-radius: 5px;"/>
+  </a>
+  <a href="mailto:neel.desai1605@gmail.com">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg?raw=true" alt="Gmail" width="30" style="background-color: #D14836; padding: 5px; border-radius: 5px;"/>
+  </a>
+</p>
