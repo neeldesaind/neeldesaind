@@ -38,7 +38,7 @@ I'm open to collaborating on exciting projects. Let's build something awesome to
 ### 🌐 Connect with me
 
 <p margin-left: 100px;>
-  <a href="https://linkedin.com/in/neeldesaind" target="_blank">
+  <a href="https://linkedin.com/in/neeldesaind">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" width="60" style="background-color: #0077B5; padding: 5px; border-radius: 5px;"/>
   </a>
   <a href="mailto:neel.desai1605@gmail.com">
