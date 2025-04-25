@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NEEL DESAI</h1>
-<h3 align="center">Mobile App Developer | Data Science Enthusiast</h3>
+<h3 align="center">Web Dev Intern @Nirvan Infotech | Data Science Enthusiast</h3>
 
 ### 🛠️ Languages and Tools
 
